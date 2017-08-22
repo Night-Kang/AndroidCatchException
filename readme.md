@@ -3,6 +3,7 @@
 [Android自定义处理崩溃异常](http://blog.csdn.net/baiyuliang2013/article/details/38681765)
 [Android 在客户端捕捉系统异常](http://weixueliang89.blog.163.com/blog/static/197921774201331345333493/)
 [Android中处理崩溃异常 ](http://shade8109.blog.163.com/blog/static/1301106042011101805048653/)
+[阿里客户端工程师试题简析——Android应用的闪退（crash）分析](http://ju.outofmemory.cn/entry/306828)
 ##说明
 用来处理远端客户处理异常上传
 ##遗留的问题
